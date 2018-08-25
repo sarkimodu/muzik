@@ -1,4 +1,4 @@
-#Müzik
+# Müzik
 
 Günümüzde artık hangi yaşta olursa olsun fark etmez, **müzik** pek çok kişinin günlük yaşamının vazgeçilmezleri arasında kendine yer bulmaya başladı. Gelişen teknoloji ile beraber ise artık insanlar yalnızca onlara sunulmakta olan parçaları dinlemiyorlar. Bununla beraber insanlar ister kendi yörelerine özgü yerel **müzik** parçalarını dinlerken isterlerse Türkçe ya da yabancı dildeki pek çok farklı kategoride yer almakta olan parçalar arasından seçimlerini rahatlıkla yapıyorlar. Buna bir de akıllı telefonların insanların hayatlarına girmesi eklendiği zaman müzik dinlemek için radyolarda istenilen şarkıların çıkmasını beklemek yerine isteyen herkes dilediği tarzdaki müzik parçasına erişmeyi istiyorlar. Bu işlem kimi zaman kolay gibi görülse de aslında düşünülenden çok daha zor olabiliyor.
 
